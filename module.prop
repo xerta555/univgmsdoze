@@ -1,0 +1,7 @@
+id=univgmsdoze
+name=Universal GMS Doze
+version=v1.0
+versionCode=100
+author=gloeyisk
+description=Systemless force dozing GMS for fix draining battery systemlessly. Including XiaomiDoze prebuilt (can be used for another devices other than Xioami) with additional features for aggressive doze and maintain deep sleep.
+minMagisk=1500
