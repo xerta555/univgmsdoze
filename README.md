@@ -12,7 +12,7 @@
 
 #### INSTALLATION
 
-1. Can't be used with similar modules (need to remove another one first)
+1. Can't be used with similar modules
 2. Install directly from Magisk or TWRP
 3. Reboot
 4. Profit
