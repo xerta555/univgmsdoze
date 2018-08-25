@@ -12,6 +12,7 @@
 
 #### INSTALLATION
 
+To be noted this is only for API 24+
 1. Can't be used with similar modules
 2. Install directly from Magisk or TWRP
 3. Reboot
