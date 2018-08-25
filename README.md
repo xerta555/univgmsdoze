@@ -9,6 +9,8 @@
 
 - This is open source, feels free to fork and make with your own creations. There is no compulsion for credits or anything. Will open a donation if everything goes well.
 
+- Used third party code: Unity (Un)Installer. Thanks to [Zackptg5](https://github.com/Zackptg5) for the [Unity Template](https://github.com/Zackptg5/Unity).
+
 
 #### INSTALLATION
 
