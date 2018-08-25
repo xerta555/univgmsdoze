@@ -1,0 +1,56 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: JJC42TomzX6nBDi3BxCiCskvpA8=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: UjJZ9SzPP6pAyFcHND6i8sV4hEw=
+
+Name: common/system.prop
+SHA1-Digest-Manifest: HbzvC3Tyik76s7nzWE6amQuJyXg=
+
+Name: common/unityfiles/util_functions.sh
+SHA1-Digest-Manifest: yIF76Zup51fL8xB1qa1fKX+BIFU=
+
+Name: system/etc/permissions/privapp-permissions-com.oasisfeng.greenif
+ y.xml
+SHA1-Digest-Manifest: kMsl9emDh8Yl6ARKC/BD/2jzw4g=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: Ryw8cxDa46xEeTL2v/eeeJ1QKB4=
+
+Name: common/unityfiles/modidsysover.sh
+SHA1-Digest-Manifest: TzqpvGfonAVEPEle9FhKo1kEtbg=
+
+Name: config.sh
+SHA1-Digest-Manifest: FYx/+9nGDrvPfQfsh8EYGCLHIkc=
+
+Name: README.md
+SHA1-Digest-Manifest: 9x8WoSwtdO8n7TYyj2fVQOUkg5Q=
+
+Name: common/unityfiles/addon.sh
+SHA1-Digest-Manifest: RA52x5oJPA6nocrEK1pvAskrgpc=
+
+Name: module.prop
+SHA1-Digest-Manifest: vD1UeV5D/L4u13GrpTi3mdCMTnI=
+
+Name: common/unityfiles/modid.sh
+SHA1-Digest-Manifest: bnNlh+MP55vhyaFgyornPf7OCOI=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: VtKBEhht61kydxikJQD27q4v6gw=
+
+Name: common/uninstall.sh
+SHA1-Digest-Manifest: sWS2ijW3EZjVAQA2jiATGPOsYBA=
+
+Name: common/install.sh
+SHA1-Digest-Manifest: tDiYM4vDnE/2rZUzit9XR1J6nAo=
+
+Name: system/priv-app/Greenify/Greenify.apk
+SHA1-Digest-Manifest: GzIVQfd3OZep3HQKTINYzAaje/s=
+
+Name: LICENSE
+SHA1-Digest-Manifest: A/UlHbZVvJgTx9xE2eCg3myXJDQ=
+
