@@ -9,12 +9,11 @@
 
 - This is open source, feels free to fork and make with your own creations. There is no compulsion for credits or anything. Will open a donation if everything goes well.
 
-- Used third party code: Unity (Un)Installer. Thanks to [Zackptg5](https://github.com/Zackptg5) for the [Unity Template](https://github.com/Zackptg5/Unity).
+- Used third party code: Unity (Un)Installer. Thanks to [Zackptg5](https://github.com/Zackptg5) for the [Unity Template](https://github.com/Zackptg5/Unity). To be noted this is only for API 24+ with Enforcing SELinux.
 
 
 #### INSTALLATION
 
-To be noted this is only for API 24+
 1. Can't be used with similar modules
 2. Install directly from Magisk or TWRP
 3. Reboot
