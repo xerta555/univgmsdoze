@@ -87,7 +87,7 @@ REPLACE="
 # Construct your own list here, it will overwrite the example
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
-/system/etc/sysconfig/google.xml
+/system/priv-app/XiaomiDoze
 "
 
 ##########################################################################################
@@ -98,7 +98,7 @@ REPLACE="
 
 set_permissions() {
   # DEFAULT PERMISSIONS, DON'T REMOVE THEM
-  $MAGISK && set_perm_recursive $MODPATH 0 0 0755 0644
+    $MAGISK && set_perm_recursive $MODPATH/system/etc/sysconfig 0 0 0755 0644
 
   # CUSTOM PERMISSIONS
 
