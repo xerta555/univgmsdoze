@@ -12,6 +12,13 @@
 - Used third party code: Unity (Un)Installer. Thanks to [Zackptg5](https://github.com/Zackptg5) for the [Unity Template](https://github.com/Zackptg5/Unity).
 
 
+#### COMPATIBILITY
+- Android Nougat+ (API 24)
+- SELinux Enforcing
+- Magisk 17
+
+
+
 #### INSTALLATION
 
 1. Can't be used with similar modules
@@ -32,6 +39,7 @@
 
 **v1.0 (verCode: 101)**
 - Bump Template to 17000
+- Unity v1.7 update
 
 **v1.0 (verCode: 100)**
 - Initial release to online repo
