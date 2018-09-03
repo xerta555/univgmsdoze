@@ -50,10 +50,12 @@ MAXAPI=28
 #RAMDISK=true
 #DEBUG=true
 
-# Custom Variables - Keep everything within this function
+# Custom Variables for Install AND Uninstall - Keep everything within this function
 unity_custom() {
   :
 }
+
+# Custom Functions for Install AND Uninstall - You can put them here
 
 ##########################################################################################
 # Installation Message
