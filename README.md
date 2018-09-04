@@ -1,5 +1,5 @@
 # Universal GMS Doze
-## gloeyisk | GL-DP (C) 2018
+## (C) gloeyisk | GL-DP, 2018
 
 
 
