@@ -1,6 +1,6 @@
 id=univgmsdoze
 name=Universal GMS Doze
-version=v1.0.0 (OZ101B)
+version=v1.0.0 (NDE05W, Sep 2018)
 versionCode=101
 author=gloeyisk
 description=A simple way to force dozing GMS for fix draining battery systemlessly. Including XiaomiDoze prebuilt (can be used for another devices other than Xioami) with additional features for aggressive doze and maintain deep sleep.
