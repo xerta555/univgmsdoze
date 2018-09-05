@@ -33,10 +33,10 @@ Used third party code: Unity (Un)Installer. Thanks to [Zackptg5](https://github.
 
 ## RECENT CHANGES
 
-**v1.0.0 (OZ101B)**
+**v1.0.0 (NDE05W, Sep 2018)**
 - Bump Template to 17000
 - Update Unity to v1.7
-- Minor changes
+- General optimization
 
-**v1.0.0 (OZ100A)**
+**v1.0.0 (NDE25S, Aug 2018)**
 - Initial release to online repo
