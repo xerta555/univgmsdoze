@@ -33,6 +33,5 @@ And also this module used third-party code: Unity (Un)Installer for made it easi
 
 ## CONTACT AND SUPPORT
 
-- Telegram: [gloeyisk](t.me/gloeyisk)
 - Gmail: [gloeyisk@gmail.com](gloeyisk@gmail.com)
 - Source: [Git Repository](https://github.com/gloeyisk/universal-gms-doze)
