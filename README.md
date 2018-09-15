@@ -17,7 +17,7 @@ And also this module used third-party code: Unity (Un)Installer for made it easi
 
 
 
-## CHANGELOG
+## RECENT CHANGES
 
 **v1.0.0 (NDE05W, Sep 2018)**
 - Bump Template to 17000
