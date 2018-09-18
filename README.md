@@ -19,6 +19,11 @@ And also this module used third-party code: Unity (Un)Installer for made it easi
 
 ## RECENT CHANGES
 
+**v1.1.0 (NMF19W, Sep 2018)**
+- New modified xml
+- Update doze
+- Update verCode to 110
+
 **v1.0.0 (NDE05W, Sep 2018)**
 - Bump Template to 17000
 - Update Unity to v1.7
