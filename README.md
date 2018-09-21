@@ -1,5 +1,5 @@
 # Universal GMS Doze
-## © 2018, gloeyisk//GL-DP ##
+## © 2018 GL-DP, gloeyisk ##
 
 
 
@@ -19,6 +19,12 @@ And also this module used third-party code: Unity (Un)Installer for made it easi
 
 ## RECENT CHANGES
 
+**v1.2.0 (NMF21F, Sep 2018)**
+- Update Unity to v1.7.1
+- Unity: Fix bug with ramdisk file copying
+- Update verCode to 120
+- doze: Cleanup
+
 **v1.1.0 (NMF19W, Sep 2018)**
 - New modified xml
 - Update doze
@@ -32,7 +38,6 @@ And also this module used third-party code: Unity (Un)Installer for made it easi
 
 **v1.0.0 (NDE25S, Aug 2018)**
 - Initial release to online repo
-
 
 
 
