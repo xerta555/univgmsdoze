@@ -19,6 +19,10 @@ And also this module used third-party code: Unity (Un)Installer for made it easi
 
 ## RECENT CHANGES
 
+**v1.2.1 (NMF28F, Sep 2018)**
+- Added Turbo prebuilt
+- Update doze
+
 **v1.2.0 (NMF21F, Sep 2018)**
 - Update Unity to v1.7.1
 - Unity: Fix bug with ramdisk file copying
