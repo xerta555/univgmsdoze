@@ -1,7 +1,7 @@
 id=univgmsdoze
 name=Universal GMS Doze
-version=v1.2.1 (NMF28F, Sep 2018)
-versionCode=121
+version=v1.3.0 (NQF01M, Oct 2018)
+versionCode=130
 author=gloeyisk
-description=A simple way to force dozing GMS for fix draining battery systemlessly. Including XiaomiDoze prebuilt (can be used for another devices other than Xioami) with additional features for aggressive doze and maintain deep sleep.
+description=A simple way to Optimized the Google Play services systemlessly and expected for better battery saver. Including Universal XiaomiDoze prebuilt for another devices other than Xiaomi and Turbo prebuilt with additional features for fix draining battery, aggressive doze, maintain deep sleep, wake-up tracking and cut-off.
 minMagisk=17000
