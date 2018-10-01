@@ -1,5 +1,5 @@
 # Universal GMS Doze
-This module enables force dozing and optimized the Google Play services with additional XiaomiDoze and Turbo prebuilt for expected better battery saver. [More details in developer previews](https://developer.android.com/training/monitoring-device-state/doze-standby).
+This module enables optimized the Google Play services included XiaomiDoze and Turbo for expected better battery saver. [More details in developer previews](https://developer.android.com/training/monitoring-device-state/doze-standby).
 
 ## Compatibility
 - Android Marshmallow+
