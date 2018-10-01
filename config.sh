@@ -90,7 +90,6 @@ REPLACE="
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
 /system/priv-app/XiaomiDoze
-/system/priv-app/Turbo
 "
 
 ##########################################################################################
