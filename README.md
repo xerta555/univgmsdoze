@@ -4,7 +4,7 @@ This module enables optimized the Google Play services included XiaomiDoze and T
 ## Compatibility
 - Android Marshmallow+
 - SELinux Enforcing
-- All doze/hibernator apps ([Google Play](https://play.google.com/store?hl=en) or [APKMirror](https://apkmirror.com))
+- All doze/hibernator apps
 
 ## Recent Changes
 ### v1.3.1 (NQF01M, Oct 2018)
