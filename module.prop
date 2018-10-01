@@ -1,7 +1,7 @@
 id=univgmsdoze
 name=Universal GMS Doze
 version=v1.3.1 (NQF01M, Oct 2018)
-versionCode=131
+versionCode=132
 author=gloeyisk
-description=Universal GMS Doze is a simple way to  force dozing and optimized the Google Play services and expected for better battery saver (Including XiaomiDoze and Turbo prebuilt)
+description=Universal GMS Doze is a simple way to force dozing and optimized the Google Play services and expected for better battery saver (Including XiaomiDoze and Turbo prebuilt)
 minMagisk=17000
