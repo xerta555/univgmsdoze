@@ -1,42 +1,41 @@
 # Universal GMS Doze
-## © 2018 GL-DP, gloeyisk ##
+This module enables force dozing and optimized the Google Play services with additional XiaomiDoze and Turbo prebuilt for expected better battery saver. [More details in developer previews](https://developer.android.com/training/monitoring-device-state/doze-standby).
 
-
-
-This module is a simple way to force dozing GMS systemlessly. The way it works is aiming for unrestrict Google Play services running in background and puted into Optimized automatically and expected for better battery saver.
-
-
-
-## ADDITIONAL FEATURES
-- XiaomiDoze prebuilt (Universal)
-- Turbo prebuilt (Beta)
-- Unity (Un)Installer
-
-
-
-## COMPATIBILITY
-- Android Nougat+ (API 24)
+## Compatibility
+- Android Marshmallow+
 - SELinux Enforcing
-- Magisk 17+
-- Can't be used with similar module(s)
-- Compatible with any third-party apps (e.g. doze/hibernator apps)
+- All doze/hibernator apps ([Google Play](https://play.google.com/store?hl=en) or [APKMirror](https://apkmirror.com))
 
+## Recent Changes
+### v1.3.1 (NQF01M, Oct 2018)
+- Update documentation
+- Decreased min API to 23
 
-
-## RECENT CHANGES
-
-
-**v1.3.0 (NQF01M, Oct 2018)**
+### v1.3.0 (NQF01M, Oct 2018)
 - Update documentation
 
+### v1.2.1 (NMF28F, Sep 2018)
+- Added Turbo prebuilt
+- Update doze
 
+### v1.2.0 (NMF21F, Sep 2018)
+- Update Unity to v1.7.1
+- Unity: Fix bug with ramdisk file copying
+- doze: Cleanup
 
-## CREDITS
-- [Zackptg5](https://github.com/Zackptg5) for the [Unity Template](https://github.com/Zackptg5/Unity)
-- [xerta555](https://github.com/xerta555) for the new documentation views
+### v1.1.0 (NMF19W, Sep 2018)
+- New modified xml
+- Update doze
 
+### v1.0.0 (NDE05W, Sep 2018)
+- Bump Template to 17000
+- Update Unity to v1.7
 
+### v1.0.0 (NDE25S, Aug 2018)
+- Initial release to online repo
 
-## SOURCES
+## Credits
+- [Unity (Un)Installer](https://github.com/Zackptg5/Unity)
 
+## Source
 - Module: [GitHub](https://github.com/gloeyisk/universal-gms-doze)
